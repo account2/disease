@@ -6,7 +6,7 @@ the spread of a disease.
 
 `disease.py`: This script simulates disease dynamics on complex networks 
 using the parameters specified in `<params file>`, and prints the final 
-fractions (`s`, `i`, and `r`) of the susceptible, intected, and recovered 
+fractions (`s`, `i`, and `r`) of the susceptible, infected, and recovered 
 individuals, along with the standard deviation of `r`.
 
 ```bash
